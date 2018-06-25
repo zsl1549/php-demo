@@ -9,7 +9,9 @@
 ├── README.md
 ├── env.php
 ├── index.php
+├── Procfile     # 启动命令
 └── phpinfo.php
+
 ```
 
 ## 项目要求
