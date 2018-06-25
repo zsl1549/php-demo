@@ -9,7 +9,7 @@
 ├── README.md
 ├── env.php
 ├── index.php
-├── Procfile     # 启动命令
+├── Procfile     # 启动命令描述文件
 └── phpinfo.php
 
 ```
