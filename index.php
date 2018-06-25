@@ -101,7 +101,7 @@
  <body>
   <div class="wrapper">
   <h1> Hello PHP!</h1>
-   <p>这是 <a href="https://www.rainbond.com" target="_blank">Rainbond</a>平台 <a href="https://github.com/goodrain/php-demo.git" target="_blank">PHP</a> 代码演示效果页面。</p>
+   <p>这是 <a href="https://www.rainbond.com" target="_blank">Rainbond</a> 平台 <a href="https://github.com/goodrain/php-demo.git" target="_blank">PHP</a> 代码演示效果页面。</p>
    <p>
      本页面是一个静态页面，动态页面示例：<a href='phpinfo.php'  style="color: green; text-decoration: underline;">查看phpinfo信息</a>
    </p>
